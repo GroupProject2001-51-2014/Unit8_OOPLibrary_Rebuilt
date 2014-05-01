@@ -1,0 +1,33 @@
+0000000000000000000000000000000000000000 599ae842baac5c0b023c01959791fb2bfa4abcd0 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398629582 -0500	commit: Initial Commit
+599ae842baac5c0b023c01959791fb2bfa4abcd0 9411aed0bcc1401e155ba957ad296d053fc41129 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398639616 -0500	commit: Added class initialization to the default constructor
+9411aed0bcc1401e155ba957ad296d053fc41129 46305928880119fe92fc521246e7d64603aed647 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398660284 -0500	commit: Added UNDEFINED to AudioVisualType enum Initialized local variables from Default constructor Added @override public String displayInfo() Added ImageIcon displayCover(URI file) Added Clip getSoundClip(URL fileURL) Added overloaded method playSoundClip(URL fileURL) Added overloaded method playSoundClip(final URL fileURL, long seconds)
+46305928880119fe92fc521246e7d64603aed647 441607f5ec9668d1d2c9f960431256f6d9a87b19 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398660494 -0500	commit: Formatting
+441607f5ec9668d1d2c9f960431256f6d9a87b19 c876f45ba5f1d73a0c144df29cb3b24decdde0a2 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398660559 -0500	commit: Added tests to be used in DEBUG mode
+c876f45ba5f1d73a0c144df29cb3b24decdde0a2 2f547e4be6de0861b03b7a18489a264dcbe49565 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398660616 -0500	commit: Added sound file
+2f547e4be6de0861b03b7a18489a264dcbe49565 6dab03d8e2bdfeee3733f2f4407326874e264037 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398738566 -0500	commit: Updated synchronization to playSoundClip(URL fileURL),  playSoundClip(final URL fileURL, long seconds) and getSoundClip(URL fileURL) methods
+6dab03d8e2bdfeee3733f2f4407326874e264037 57ae79264f4ef63235ae26bbd90327bd7e716fa7 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398738721 -0500	commit: Further test to playing Sounds 
+57ae79264f4ef63235ae26bbd90327bd7e716fa7 8a747e25eb0b3847a21385db669ae318b22be474 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398738898 -0500	merge origin/master: Merge made by resolve.
+8a747e25eb0b3847a21385db669ae318b22be474 fa28b22b1624f9cd8fea8430dc60dc73c1bc8818 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398738948 -0500	commit: Added Sound file
+fa28b22b1624f9cd8fea8430dc60dc73c1bc8818 3ba339512ea083fdb89c36768727cc0e9692e8cf GroupProject2001-51-2014 <john.mambo@gmail.com> 1398744174 -0500	commit: Made corrections to the class
+3ba339512ea083fdb89c36768727cc0e9692e8cf 46f143f8a02b35e18874eabed2ae6ffea7a15e6b GroupProject2001-51-2014 <john.mambo@gmail.com> 1398744196 -0500	commit: Made corrections to the class
+46f143f8a02b35e18874eabed2ae6ffea7a15e6b 4a4531349b346a4e3c2760093c242b078cad9fb5 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398744389 -0500	commit: Moved Image files to the correct location
+4a4531349b346a4e3c2760093c242b078cad9fb5 8006c3b59e993cceaadf6e49725cf1140a35f979 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398745353 -0500	commit: Issue with NetBeans IDE after renaming file
+8006c3b59e993cceaadf6e49725cf1140a35f979 f4cc032f18736bdb3fabdd83126f588f2ca3d137 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398745588 -0500	commit: Issue with NetBeans IDE after renaming file
+f4cc032f18736bdb3fabdd83126f588f2ca3d137 4a5c5a99422ed744f4bfbb3c39f8272e8c41f43d GroupProject2001-51-2014 <john.mambo@gmail.com> 1398745984 -0500	commit: Added files back after Deleteing them due to Issue with NetBeans IDE after renaming file.
+4a5c5a99422ed744f4bfbb3c39f8272e8c41f43d 846ba72f5dfdd213b0657c7e3507391ba75df785 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398747643 -0500	commit: Made corrections to the package reference  and pointer to the new image location.
+846ba72f5dfdd213b0657c7e3507391ba75df785 3ef9fc56330cc4e08a67c85bcd3e9b92166f7974 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398747671 -0500	commit: Moved Image file.
+3ef9fc56330cc4e08a67c85bcd3e9b92166f7974 c59475f7e50f1e71dbd28635313acc39593b8894 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398816277 -0500	commit: Added End of test code Print-out
+c59475f7e50f1e71dbd28635313acc39593b8894 84d534a321ca57fb1ee851c730cb93a1e1618dab GroupProject2001-51-2014 <john.mambo@gmail.com> 1398826231 -0500	commit: Resized the tab images to 64px x 64px
+84d534a321ca57fb1ee851c730cb93a1e1618dab aa989c7e0b59b11bceae3e0409ca966febd40695 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398826297 -0500	commit: Customized the class to allow it to keep track of Inventory
+aa989c7e0b59b11bceae3e0409ca966febd40695 90ac64525ffc146bf30ad8edfb03ef563dbbebd5 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398826475 -0500	commit: Applied the resized Images to Tabs
+90ac64525ffc146bf30ad8edfb03ef563dbbebd5 e156891a823b638a0100d9a797886ebbf428ee8a GroupProject2001-51-2014 <john.mambo@gmail.com> 1398827004 -0500	commit: Added Debug checks
+e156891a823b638a0100d9a797886ebbf428ee8a 8fdd1011ed34f857d2ff86b335a5f94bf3021f21 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398837020 -0500	commit: Added Media Covers
+8fdd1011ed34f857d2ff86b335a5f94bf3021f21 5bfb88cf9e1a86377b84c1d78954c62b71697ec6 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398837084 -0500	commit: Added Sounds Files
+5bfb88cf9e1a86377b84c1d78954c62b71697ec6 710b2ef2491f527e136bc11a9f004e3abf48186a GroupProject2001-51-2014 <john.mambo@gmail.com> 1398837127 -0500	commit: Added static methods for data access.
+710b2ef2491f527e136bc11a9f004e3abf48186a 77b6e54d8d4151e39a87744bd339af41d4e6150a GroupProject2001-51-2014 <john.mambo@gmail.com> 1398837183 -0500	commit: Added Image Covers to CD/DVD Tab Added sound to CD/DVD Tab
+77b6e54d8d4151e39a87744bd339af41d4e6150a 86386ed0545b08bab6ac115c1be51190d1a0be4b GroupProject2001-51-2014 <john.mambo@gmail.com> 1398839333 -0500	commit: Need to reduce the Sound file size
+86386ed0545b08bab6ac115c1be51190d1a0be4b 36190613242d7fddde512a5d1a154995bbe716a2 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398839560 -0500	commit: Revert "Need to reduce the Sound file size"
+36190613242d7fddde512a5d1a154995bbe716a2 bada4c616ea3b7becc4b5cd5d1a19e7c085e62b4 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398901857 -0500	commit: Updated Audio Files with 1 min clips
+bada4c616ea3b7becc4b5cd5d1a19e7c085e62b4 31a5790a35ffba74d8d8a74d0ab470b8bf5ca887 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398901982 -0500	commit: Updated URL for media file
+31a5790a35ffba74d8d8a74d0ab470b8bf5ca887 3759b20e1000fbab9a7d2ba59d9220796fbfb012 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398902929 -0500	commit: Added functionality to allow GUI to run
+3759b20e1000fbab9a7d2ba59d9220796fbfb012 135b4fba53da5842245d6efeb6461ea427b19204 GroupProject2001-51-2014 <john.mambo@gmail.com> 1398902951 -0500	commit: Added functionality to allow GUI to run

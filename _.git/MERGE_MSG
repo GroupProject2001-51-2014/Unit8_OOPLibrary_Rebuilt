@@ -1,0 +1,5 @@
+Merge origin/master
+
+Conflicts:
+	src/unit8_ooplibrary/LibraryGUI.form
+	src/unit8_ooplibrary/LibraryGUI.java
